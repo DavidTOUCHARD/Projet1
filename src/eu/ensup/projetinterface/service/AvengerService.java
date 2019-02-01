@@ -45,7 +45,7 @@ public class AvengerService implements IAvengerService {
 		System.out.println(ad.getAll());
 		return ad.getAll();
 	}
-
+	// superbe méthode
 	@Override
 	public void ComparerAvenger(Avenger avenger1, Avenger avenger2) throws ServiceException {
 		// TODO Auto-generated method stub
