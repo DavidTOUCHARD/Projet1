@@ -4,7 +4,7 @@ package eu.ensup.projetinterface.domaine;
 import java.util.List;
 
 public class Avenger {
-	//Classe avenger
+	//Classe avenger trop trop trop bien
 	private String nom;
 	private String costume;
 	private int age;
