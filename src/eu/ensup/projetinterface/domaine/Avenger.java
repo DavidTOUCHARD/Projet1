@@ -9,7 +9,7 @@ public class Avenger {
 	private String costume;
 	private int age;
 	private String pouvoir;
-	
+	//test pour git
 	public Avenger(String nom, String costume, int age, String pouvoir) {
 		super();
 		this.nom = nom;
